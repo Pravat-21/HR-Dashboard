@@ -37,3 +37,9 @@ The summary view should be divided into three main sections: Overview, Demograph
 ## USE MY DASHBOARD [HERE](https://public.tableau.com/app/profile/pravat.patra2029/viz/tableau_HR_dashboard/HRdashboard_main?publish=yes)
 
 ### ** Snapshots of My work :**
+![Screenshot 2024-10-21 191437](https://github.com/user-attachments/assets/b5013d0f-4e0d-4ef0-b6d6-b7435c3498c8)
+
+
+![Screenshot 2024-10-21 191452](https://github.com/user-attachments/assets/42d62782-9120-406d-b813-0a07f36255bc)
+
+
